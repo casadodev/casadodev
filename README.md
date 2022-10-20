@@ -43,10 +43,7 @@ Algumas Ferramentas e Linguagens que aprendi e utilizei em meus principais proje
 
 
 
-<div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cirino&show_icons=true&bg_color=CDCDCD&border_color=7D7D7D&title_color=087CFA&text_color=000000&icon_color=6B57FF&border_radius=15px&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cirino&langs_count=7&layout=compact&show_icons=true&bg_color=CDCDCD&border_color=7D7D7D&title_color=087CFA&text_color=000000&icon_color=6B57FF&border_radius=15px&include_all_commits=true&count_private=true"/>
-</div>
+
 
 
 
